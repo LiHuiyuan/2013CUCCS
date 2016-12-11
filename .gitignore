@@ -1,0 +1,12 @@
+
+.env
+
+*.xml
+
+*.iml
+
+*.docx
+
+/storage
+
+public/upload
